@@ -1,0 +1,6 @@
+tensorflow>=2.1
+tensorflow-addons
+tensorflow_datasets
+sklearn
+scikit-learn-extra
+ipywidgets # fix reported bug
